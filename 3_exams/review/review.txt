@@ -1,0 +1,41 @@
+elementary data types
+
+  Int, Integer, Float, Double, Char, Bool
+
+composite data types
+
+  tuples, list
+
+type keyword
+
+  type Point = (Double, Double)
+
+data, newtype keywords
+
+  defines new data types
+
+polymorphic
+
+class constraints
+
+  examples: Eq, Ord, Num
+
+pattern matching for lists
+
+  to access the head of the list and the tail of the list
+
+recursive, tail-recursive, pending computations
+
+  ..._iter two arguments: first arg is the input that "shrinks"
+                          second arg holds the partial result
+
+recursive data structures
+
+  BinaryTree
+
+higher-order functions
+
+  map, filter, zipWith, foldl, foldr, uncurry, flip
+
+
+  

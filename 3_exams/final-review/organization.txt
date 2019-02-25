@@ -1,0 +1,34 @@
+Final exam
+----------
+
+Problem 1:
+10 little problems, each is worth 1 point
+
+what is a higher order function?
+what is persistence?
+what is a partially applied function?
+what is a partially applied type constructor?
+
+basic functions in functional programming
+
+filter, map, zip, zipWith
+
+what are the two basic function that you have to 
+implement for a monad?
+
+return :: a -> m a
+(>>=)  :: m a -> (a -> m b) -> m b
+
+give examples of classes in Haskell
+Eq, Ord, Show, Num, Integral
+
+what is a class constraint?
+
+Problem 2:
+----------
+
+algebraic data types
+
+Problem 3:
+----------
+

@@ -1,0 +1,155 @@
+COP 4020 meeting -*- Outline -*-
+
+------------------------------------------
+
+* Contact information
+
+Instructor   : Dr. Pawel Wocjan
+Email        : wocjan@eecs.ucf.edu
+Office       : HEC 341 (Harris Center Bldg. 116)
+Office Hours : TuTh 4:30-5:45PM
+
+GTA          : Yevgeniy Sher
+Email        : gsher@knights.ucf.edu
+Office       : HEC-301  
+Office hours : We 4:00-5:00PM 
+
+Course webpage/repo : https://bitbucket.org/schneider128k/2016_fall_cop4020
+
+------------------------------------------
+
+* Course time and location
+
+Time         : TuTh 3:00PM - 4:15PM
+Location     : CB2 O204
+
+------------------------------------------
+
+* Course objectives
+
+- Quickly learn new programming languages,
+
+- Master, i.e., effectively use them,
+
+- Evaluate what combination of 
+  programming model and language features 
+  would best solve a given problem, 
+
+------------------------------------------
+   
+* Learning outcomes
+
+- Concepts 
+  understand, use, apply concepts and terms
+
+- Use models 
+  use each essential model in programming model
+  to solve problems
+
+- Evaluate models 
+  for each essential programming model
+  convincingly evaluate its advantages
+  for solving a given problem
+
+- Map to languages 
+  convincingly explain what features 
+  in C, C++, and Java 
+  support each essential programming model
+
+------------------------------------------
+
+* Plan for the course
+
+Learn about functional programming in Haskell and Java.
+ 
+------------------------------------------
+
+* Grading (homework assignments, exams)
+
+There will be two exams.  The midterm exam
+is worth 20 points.  The final exam is worth
+20 points.  
+
+There will be 4 homeworks assignments.
+Each homework assignment is work is worth 15 points.
+
+- exams     : 20 pts + 20 pts = 40 pts
+- homeworks : 4 x 15 pts      = 60 pts
+=========================================
+- total     :                   100 pts
+
+The final grade will be computed as follows:
+
+points  grade
+>= 95     A+  
+>= 90     A  
+>= 85     A-
+>= 80     B+
+>= 75     B
+>= 70     B-
+>= 65     C+
+>= 60     C
+>= 55     C-
+>= 50     D+
+>= 45     D
+>= 40     D-
+less      F
+
+------------------------------------------
+
+* Dates and times for the exams
+
+- Midterm (first) exam 
+  
+    Thursday 10/20 
+
+- Final (second) exam 
+  
+    Thursday 12/08 1:00PM - 3:50PM 
+
+    the official UCF final examination period:see http://registrar.ucf.edu/exam/2016/fall
+
+Both exams will be held in CBA O204 (our class room).
+
+------------------------------------------
+
+* Books
+
+A good introduction to get started with Haskell is "Learn You a Haskell for Great Good" 
+http://learnyouahaskell.com/
+
+We will be using a lot of material from the book "Haskell: the Craft of Functional Programming"
+http://www.haskellcraft.com/craft3e/Home.html
+
+------------------------------------------
+
+* Homework submission
+
+You wil have to work on the homework assignments in a team consisting
+of 4 team members. 
+
+I will push all the relevant material for each homework to the repo
+https://bitbucket.org/schneider128k/2016-fall-cop4020
+in the homeworks folder.
+
+I will also create a "homework assignment" entry on Webcourses for each homework.
+You will have to upload your solutions to Webcourses.  
+
+Each homework will be due on Friday at 11:59pm.
+Absolutely no late homework (no exceptions) because  
+the solutions to each homework will be posted on
+Thursday after the deadline. 
+
+You will receive 0 points for the homework assignment 
+if you submit it after the deadline.
+
+------------------------------------------
+
+* Cheating and Plagiarism
+
+Any academic dishonesty (including, but not limited to: cheating, copying and/or plagiarism)
+with respect to any exam or assignment in this class will result in a grade of F, following by the
+usual procedures for dealing with such behavior, as describe in the UCF Golden Rule : a
+handbook for students.
+
+------------------------------------------
